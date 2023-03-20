@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-color:black;
+            }
+            h2{
+                color:white
+            }
+            h1{
+                color:white
+            }
+        </style>
+    </head>
+    <body>
+        <div class="login">
+            <center>
+                <h1>phishing domain detection</h1>
+                <h2>enter url and verify</h2>
+                <form action="{{ url_for('predict')}}"method="POST">
+                    url:<input type="Text">
+                    <button type="submit" class="btn btn-primary btn-block btn-large">predict</button>   
+                </form>
+            </center>
+        </div>
+        <center>
+            <h2>
+                {{prediction_text}}
+            </h2>
+        </center>
+    </body>
+</html>

@@ -15,4 +15,13 @@
 ![image](https://github.com/Rohitkommu/phishing-domain-detection/assets/123623873/5c23b3d0-a0fb-4af8-a67f-ec512291c61d)
 
 
+### Prediction
+
+![Screenshot (286)](https://github.com/Rohitkommu/phishing-domain-detection/assets/123623873/76fdba64-9e8d-4769-a2b9-1b169795c5ea)
+
+![Screenshot (287)](https://github.com/Rohitkommu/phishing-domain-detection/assets/123623873/b74d27d7-910c-4b1a-9151-d9092fcf69b6)
+
+
+
+
 
